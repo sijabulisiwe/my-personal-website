@@ -70,7 +70,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 12px;
-  color: #999999;
+  color:brown;
   letter-spacing: 0.1em;
   font-weight: 500;
   line-height: 14px;
@@ -86,7 +86,7 @@ p {
   margin: 25px 0;
   padding: 0;
   font-size: 15px;
-  color: #999999;
+  color:brown;
   line-height: 28px;
 }
 
@@ -134,7 +134,7 @@ p {
   background-color: transparent;
   border: 1px solid #999;
   border-radius: 0;
-  color: #999999;
+  color: brown;
   font-size: 12px;
   font-weight: 500;
   height: 50px;
@@ -240,7 +240,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/sjayy2.jpg") repeat scroll center center / cover;
+  background: url("../ml2.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -260,7 +260,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: rgb(45, 22, 175);
+  color: rgb(167, 26, 49);
 }
 
 .header-content p {
@@ -269,7 +269,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: rgb(14, 16, 126);
+  color: rgb(179, 20, 34);
   font-weight: 500;
 }
 
@@ -279,7 +279,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: rgb(24, 50, 165);
+  color: rgb(185, 12, 12);
   font-size: 15px;
 }
 
@@ -312,12 +312,14 @@ nav ul li a {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
   text-align: left;
+  color:blueviolet;
 }
 
 #about .about-descr .separator {
   max-width: 80%;
   margin-bottom: 0;
   text-align: left;
+  color:brown;
 }
 
 /*-----------------------------------------------------------------------------------*/
@@ -348,6 +350,7 @@ nav ul li a {
   margin: 0;
   font-size: 13px;
   line-height: 22px;
+  color:brown;
 }
 
 .services-block i {
@@ -421,6 +424,7 @@ nav ul li a {
   -o-transition: all 0.5s ease-in-out 0s;
   -webkit-transition: all 0.5s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
+  color:brown;
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
